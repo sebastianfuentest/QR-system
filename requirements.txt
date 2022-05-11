@@ -1,0 +1,2 @@
+###Python QRcode para codificar y decodificar información en codigos QR:
+####https://pypi.org/project/qrcode/

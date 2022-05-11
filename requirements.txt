@@ -1,2 +1,4 @@
-###Python QRcode para codificar y decodificar información en codigos QR:
-####https://pypi.org/project/qrcode/
+-Python QRcode para codificar y decodificar información en codigos QR:
+https://pypi.org/project/qrcode/
+
+- Libreria CSV que viene con python, pero se debe importar para leer los archivos csv con "import csv".
